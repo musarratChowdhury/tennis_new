@@ -1,0 +1,18 @@
+header{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 630px;
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+}
+
+footer{
+    background-color: aliceblue;
+    padding-top: 10px;
+    padding-left: 570px;
+    padding-bottom: 10px;
+}
+#gameCanvas{
+    border:2px solid black;
+}
